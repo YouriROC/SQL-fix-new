@@ -1,0 +1,18 @@
+C:\Users\User\source\repos\SQL Fixer - OND\SQL Fixer - OND\bin\Debug\SQL Fixer - OND.exe.config
+C:\Users\User\source\repos\SQL Fixer - OND\SQL Fixer - OND\bin\Debug\SQL Fixer - OND.exe
+C:\Users\User\source\repos\SQL Fixer - OND\SQL Fixer - OND\bin\Debug\SQL Fixer - OND.pdb
+C:\Users\User\source\repos\SQL Fixer - OND\SQL Fixer - OND\obj\Debug\SQL Fixer - OND.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SQL Fixer - OND\SQL Fixer - OND\obj\Debug\SQL_Fixer___OND.Form1.resources
+C:\Users\User\source\repos\SQL Fixer - OND\SQL Fixer - OND\obj\Debug\SQL_Fixer___OND.Properties.Resources.resources
+C:\Users\User\source\repos\SQL Fixer - OND\SQL Fixer - OND\obj\Debug\SQL Fixer - OND.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SQL Fixer - OND\SQL Fixer - OND\obj\Debug\SQL Fixer - OND.exe
+C:\Users\User\source\repos\SQL Fixer - OND\SQL Fixer - OND\obj\Debug\SQL Fixer - OND.pdb
+C:\Users\User\Source\Repos\SQL-Fix\SQL Fixer - OND\SQL Fixer - OND\bin\Debug\SQL Fixer - OND.exe.config
+C:\Users\User\Source\Repos\SQL-Fix\SQL Fixer - OND\SQL Fixer - OND\bin\Debug\SQL Fixer - OND.exe
+C:\Users\User\Source\Repos\SQL-Fix\SQL Fixer - OND\SQL Fixer - OND\bin\Debug\SQL Fixer - OND.pdb
+C:\Users\User\Source\Repos\SQL-Fix\SQL Fixer - OND\SQL Fixer - OND\obj\Debug\SQL Fixer - OND.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\SQL-Fix\SQL Fixer - OND\SQL Fixer - OND\obj\Debug\SQL_Fixer___OND.Form1.resources
+C:\Users\User\Source\Repos\SQL-Fix\SQL Fixer - OND\SQL Fixer - OND\obj\Debug\SQL_Fixer___OND.Properties.Resources.resources
+C:\Users\User\Source\Repos\SQL-Fix\SQL Fixer - OND\SQL Fixer - OND\obj\Debug\SQL Fixer - OND.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\SQL-Fix\SQL Fixer - OND\SQL Fixer - OND\obj\Debug\SQL Fixer - OND.exe
+C:\Users\User\Source\Repos\SQL-Fix\SQL Fixer - OND\SQL Fixer - OND\obj\Debug\SQL Fixer - OND.pdb
